@@ -182,7 +182,7 @@ $(document).ready(function() {
 // Add counter     //no funcional
 $(document).ready(function() {
     
-    $('counter-num').counterUp({
+    $('.counter-num').counterUp({
         delay: 10,
         time: 1000
     });
